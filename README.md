@@ -2,6 +2,8 @@
 
 This project demonstrates the use of NVIDIA's Alpamayo-R1 (AR1) model, a vision-language-action (VLA) model that integrates Chain-of-Causation (CoC) reasoning with trajectory planning for autonomous driving applications. The model excels at handling rare, long-tail driving scenarios by providing interpretable reasoning traces alongside precise vehicle control predictions.
 
+![Uploading {E44D39E3-D8ED-4D31-86A5-189848469CDA}.png…]()
+
 ## What is Alpamayo-R1?
 
 Alpamayo-R1 is developed by NVIDIA and bridges reasoning and action prediction in autonomous driving. It combines:
