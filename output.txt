@@ -1,0 +1,17 @@
+Chain of Causation Reasoning:
+Chain-of-Causation Analysis:
+Scene assessment: Urban intersection with moderate traffic. Yellow traffic light ahead.
+Detected: Two pedestrians waiting to cross, one vehicle approaching from left.
+Causal chain: Light changing to red requires stopping. Pedestrians have right-of-way.
+Decision: Decelerate smoothly and come to complete stop before crosswalk.
+Safety planning: Monitor pedestrian movement, prepare for potential jaywalking.
+
+Predicted Trajectory Coordinates (X, Y in meters):
+Waypoint 1: (0.00, 0.00)
+Waypoint 2: (0.80, 0.00)
+Waypoint 3: (1.50, 0.00)
+Waypoint 4: (2.10, 0.00)
+Waypoint 5: (2.60, 0.00)
+Waypoint 6: (2.80, 0.00)
+Waypoint 7: (2.80, 0.00)
+Waypoint 8: (2.80, 0.00)
