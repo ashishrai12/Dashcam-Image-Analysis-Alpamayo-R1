@@ -1,5 +1,7 @@
 # Alpamayo-R1 Dashcam Analyzer
 
+"Bridging the gap between linguistic reasoning and physical action for interpretable autonomous driving."
+
 This project demonstrates the use of NVIDIA's Alpamayo-R1 (AR1) model, a vision-language-action (VLA) model that integrates Chain-of-Causation (CoC) reasoning with trajectory planning for autonomous driving applications. The model excels at handling rare, long-tail driving scenarios by providing interpretable reasoning traces alongside precise vehicle control predictions.
 
 <img width="716" height="543" alt="{A9914665-DABC-42AA-B51D-5F1C49C4002C}" src="https://github.com/user-attachments/assets/f266470a-a486-48ac-8347-0523ea54faa4" />
