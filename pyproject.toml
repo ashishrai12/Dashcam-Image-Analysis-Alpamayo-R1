@@ -1,0 +1,25 @@
+[project]
+name = "alpamayo_r1"
+version = "0.1.0"
+description = "Mojo implementation of Alpamayo-R1 VLA model"
+authors = [{name = "Ashish Rai", email = "ashish_rai@example.com"}]
+requires-python = ">=3.12"
+dependencies = [
+    "torch>=2.4.0",
+    "torchvision>=0.19.0",
+    "transformers>=4.44.0",
+    "einops>=0.8.0",
+    "pillow>=10.4.0",
+    "matplotlib>=3.9.0",
+    "physical_ai_av>=0.1.0",
+    "deepspeed>=0.14.0",
+    "bitsandbytes>=0.43.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.modular]
+# Core Modular configuration
+max-version = "24.4.0" # Locking to a known stable version if needed, or remove for latest
